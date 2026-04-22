@@ -31,5 +31,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gastonxdd%20&theme=vue-dark&locale=es&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+</div>
 
 ###
