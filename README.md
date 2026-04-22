@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋,  soy GastónXDDDDDD</h1>
+<h1 align="center">Hola 👋,  soy Gastón Gastón</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 Actualmente soy Facilitador de Contenidos Tecnológicos en <a href="https://www.linkedin.com/in/mendoza-futura-comunidad/" target="blank">Conectados por Mendoza Futura</a><br><br>📫 Podes contactarme en alejo@liobarrozo.com</p>
+<p align="left">🔭 Actualmente soy estudiante en <a href="https://www.linkedin.com/in/mendoza-futura-comunidad/" target="blank">Conectados por Mendoza Futura</a><br><br>📫 Podes contactarme en grangettogaston08@gmail.com</p>
 
 ###
 
